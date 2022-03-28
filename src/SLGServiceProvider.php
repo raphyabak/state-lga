@@ -1,5 +1,5 @@
 <?php
-namespace Bodunde\SLG;
+namespace RaphyAbak\SLG;
 
 use illuminate\Support\ServiceProvider;
 
